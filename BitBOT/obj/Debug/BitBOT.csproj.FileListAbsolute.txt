@@ -1,0 +1,14 @@
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\BitBOT\BitBOT\bin\Debug\BitBOT.exe
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\BitBOT\BitBOT\bin\Debug\BitBOT.pdb
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\BitBOT\BitBOT\bin\Debug\MetroFramework.Design.dll
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\BitBOT\BitBOT\bin\Debug\MetroFramework.dll
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\BitBOT\BitBOT\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\BitBOT\BitBOT\bin\Debug\MetroFramework.Design.pdb
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\BitBOT\BitBOT\bin\Debug\MetroFramework.Fonts.pdb
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\BitBOT\BitBOT\obj\Debug\BitBOT.csprojResolveAssemblyReference.cache
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\BitBOT\BitBOT\obj\Debug\BitBOT.Form1.resources
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\BitBOT\BitBOT\obj\Debug\BitBOT.Properties.Resources.resources
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\BitBOT\BitBOT\obj\Debug\BitBOT.csproj.GenerateResource.Cache
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\BitBOT\BitBOT\obj\Debug\BitBOT.exe
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\BitBOT\BitBOT\obj\Debug\BitBOT.pdb
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\BitBOT\BitBOT\obj\Debug\BitBOT.About.resources
